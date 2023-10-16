@@ -1,5 +1,42 @@
 const assert = require('chai').assert;
 
+// describe('my test space', function () {
+    // let num = 9;
+    // let str = 'Monicah';
+
+    // it('check that num is numeric', function () {
+    //     assert.isNumber(num);
+    // });
+
+    // it('check that str is string', function () {
+    //     assert.isString(str);
+    // });
+
+
+
+    // Test First TDD Cycle 1
+
+    // function multiply (a, b) { return 1;
+    // } 
+
+    // it('check the result of the multiply function', function () {
+    //     assert.equal(multiply(1, 1), 1);
+    // });
+
+
+
+    //     // Test First TDD Cycle 2
+
+//     function multiply (c, d) { return 4;
+//     }
+
+//     it('check my other function', function () {
+//         assert.equal(multiply(2, 2),4)
+//     });
+
+// });
+
+// final assignment
 // Define the multiply function
 function multiply(a, b) {
     return a * b;
